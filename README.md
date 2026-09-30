@@ -5,3 +5,4 @@ Disposable Firstmate t12 sandbox. Contains only dummy fixture files; safe to del
 
 - `hello.sh` prints a greeting (`./hello.sh [name]`).
 - `test.sh` checks `hello.sh` output; exits non-zero on failure.
+t16b: isolation rerun
